@@ -1,49 +1,33 @@
 # Marvinian Mechanics: A Proposed Framework for a Theory of Everything
-
-"The official website and directory for Marvinian Mechanics, a 77-volume proposed framework for a Theory of Everything authored by Marvin Cabalic Magsanop."
-
+"The official website and directory for Marvinian Mechanics, a 137 volume proposed framework for a Theory of Everything authored by Marvin Cabalic Magsanop."
 ## Copyright and Intellectual Property Statement
 **© 2026 Marvin Cabalic Magsanop. All Rights Reserved.**
-
 The concepts, theories, formulations (including criticisms of existing formal verification architectures like Lean 4), and manuscripts of Marvinian Mechanics are the intellectual property of Marvin Cabalic Magsanop.
-
 Readers, researchers, and institutions are free to read, analyze, and share the links to these documents. However, **strict and mandatory attribution is required**. Any public discussion, academic citation, or derivative reference must explicitly credit **Marvin Cabalic Magsanop** as the author and include the official Zenodo DOIs listed below.
-
----
 ## Official Directory of Volumes (Zenodo DOIs)
-
 Below is the official archive of the Marvinian Mechanics series. Click the DOI links to access the permanent PDF records hosted on Zenodo.
-
-* **Volumes 0.5 to XVI:** Marvinian Mechanics (Volumes 0.5–XVI) & The Hidden AI Agenda: Refuting the Forced Blow-Up Illusion
-  * **Master DOI (Always resolves to latest version):** https://doi.org/10.5281/zenodo.20656331
-  * **Current Version (v10) DOI:** https://doi.org/10.5281/zenodo.23150916
-
----
+ * **Volumes S to XVI:** Marvinian Mechanics (Volumes S–XVI) & The Hidden AI Agenda: Refuting the Forced Blow-Up Illusion
+   * **Master DOI (Always resolves to latest version):** https://doi.org/10.5281/zenodo.20656331
+   * **Current Version (v10) DOI:** https://doi.org/10.5281/zenodo.23150916
 ## 📖 Official Volume Series Context & Companion Works
-
-Below is the complete theoretical architecture and ongoing independent research series supporting the core framework of Marvinian Mechanics:
-
-* **Volume 0.5:** Global Regularity for the 3D Navier-Stokes Equations: The Axiom of Embedded Viscous Rest State
-* **Volume I:** Formulating the Axiom of Embedded Viscous Rest State
-* **Volume II:** A Proposed Framework for Global Regularity of the 3D Navier-Stokes Equations via the Marvinian Mechanics Equality and Embedded Viscous Rest State
-* **Volume III:** A Refined Enstrophy Estimate: The Marvinian Mechanics with Tunable Parameter $K_M$ and a Conditional Route to Global Regularity for the 3D Navier-Stokes Equations
-* **Volume IV:** Marvinian Mechanics: Stability Criterion Volume IV: From 0.826 Retention to Material-Dependent $\kappa_M(m)$ Complete Package
-* **Volume V:** Marvinian Mechanics Volume V: Playing in Clay's Own Playground: Conditional Global Regularity of the Three-Dimensional Navier-Stokes Equations via the Marvinian Inequality Without Additional Parameters
-* **Volume VI:** MARVINIAN MECHANICS VOLUME VI: Waiting for a Wave in a Dry Sea: A Reductio ad Absurdum of the Clay Millennium Formulation and its Flawed Calculus
-* **Volume VII:** MARVINIAN MECHANICS VOLUME VII: Beyond Claymath, Beyond Navier-Stokes Equations, and Beyond Classical Calculus of Newton
-* **Volume VIII:** MARVINIAN MECHANICS VOLUME VIII: Frequently Asked Questions: The Explicit Refutation and Resolution of Classical Mathematics Contradictions via Marvinian Mechanics
-* **Volume IX:** MARVINIAN MECHANICS VOLUME IX: The Truth Behind the Embedded Viscous Rest State: Bridging Fluid Continuum Mechanics to Universal Gravitation
-* **Volume X:** From Marvinian Equality To PDE: The Critical Interaction Radius as a Scale-Dependent Regularity Criterion for the 3D Navier-Stokes Equations
-* **Volume XI:** The Critical Thermal Radius: A Scale-Dependent Regularity Criterion for Heat and Fluid Coupling
-* **Volume XII:** The Magsanop Switch Equation: A Geometric-Thermodynamic Theory of Thermal Regulation
-* **Volume XIII:** The Dimensional Form of $\kappa_M$: From Dimensionless Ratio to Critical Thermal Radius $R_{T,crit}$ and Its Meeting with Rayleigh Number
-* **Volume XIV:** Method A (MA) and the Embedded Viscous Rest State ($R_0$ or R): Resolving the 3D Navier-Stokes Millennium Problem via the Complex Viscosity Regulator ($\nu+iN$)
-* **Volume XV:** The Perpetual Spectral Closure and the Universal Rest Equilibrium: Final Sealing of Global Regularity via the Magsanop Constant ($C_M$)
-* **Volume XVI:** The Hidden AI Agenda and the Double Hidden Force Fitting: A Refutation of the Forced Blow-Up Illusion via $R_0$ as Referee
-
+Below is the complete theoretical architecture and ongoing independent research series supporting the core framework of Marvinian Mechanics. This framework presents a rigorous paradigm shift in continuum mechanics and mathematical physics, respectfully challenging the pure abstract formulations of the 3D Navier-Stokes Millennium Problem. By anchoring classical partial differential equations to immutable thermodynamic laws, this framework demonstrates that finite-time singularities are an illusion born of incomplete mathematical assumptions, not physical reality.
+ * **Volume S (The Beginning Volume): Global Regularity for the 3D Navier-Stokes Equations: The Axiom of Embedded Viscous Rest State.** Introduces the foundational Axiom of Embedded Viscous Rest State (\mathcal{R}_0). It corrects the "Vacuum Fallacy" by proving that a viscous fluid at rest is not an energetic void, but an active tensor field possessing a measurable thermodynamic barrier (e.g., 715 kWh for 1 \text{ m}^3 of water), establishing a strict 82.6% retained dissipation baseline.
+ * **Volume I: A Proposed Framework for Global Regularity of the 3D Navier-Stokes Equations via the Marvinian Mechanics Inequality and Embedded Viscous Rest State.** Formulates the Marvinian Mechanics Inequality, explicitly quantifying the thermodynamic limits of mechanical turbulence using the Marvinian ratio (\kappa_M \approx 0.174). It mathematically proves that under strictly isothermal and unforced conditions, mechanical turbulence lacks the energy density to breach the fluid's intermolecular bonds, conditionally precluding structural blow-up.
+ * **Volume II: A Refined Enstrophy Estimate: The Marvinian Mechanics with Tunable Parameter K_M and a Conditional Route to Global Regularity for the 3D Navier-Stokes Equations.** Advances the framework by transforming abstract bounds into the Marvinian Equality via a tunable mathematical referee parameter \kappa_M. This isolates a strictly positive remaining dissipation \nu(1-\kappa_M) and maps a finite transition time (T_0) guiding the fluid safely into a small-data regime.
+ * **Volume III: The Viscous Rest State as Active Tensor Field and Thermodynamic Barrier.** Formalizes the Viscous Rest State (\mathcal{R}_0) as a definitive thermodynamic barrier. It reduces the pursuit of global regularity to a single lemma utilizing the explicit constant C(\nu, \kappa_M), securing 82.6% active dissipation to counteract vortex stretching without requiring an initial L^1 integrability assumption.
+ * **Volume IV: Stability Criterion Volume IV: From 0.826 Retention to Material-Dependent \kappa_M(m) Complete Package.** Generalizes the water-based model into a universal, material-dependent stability criterion governed by the condition \kappa_M(m) < 1. It predicts unconditional stability for high-capacity fluids (water, mercury) while accurately anticipating physical continuum breakdown for fragile, low-capacity fluids (liquid nitrogen, helium).
+ * **Volume V: Playing in Clay's Own Playground: Conditional Global Regularity of the Three-Dimensional Navier-Stokes Equations via the Marvinian Inequality Without Additional Parameters.** Analyzes the Millennium Problem as a structural riddle, demonstrating that the theoretical blow-up stems from the mathematical self-destruction of an unanchored formula. Forcing the singular limit \epsilon \to 0 in Young's inequality without a physical thermodynamic floor is exposed as the sole locus of the abstract divergence.
+ * **Volume VI: Waiting for a Wave in a Dry Sea: A Reductio ad Absurdum of the Clay Millennium Formulation and its Flawed Calculus.** Employs the strict logic of *reductio ad absurdum* to dismantle the vacuum limit. It proves that driving the bounding parameter \epsilon \to 0 in a completely unforced system requires a non-existent "ghost engine," fatally violating the deterministic continuity of classical differential calculus.
+ * **Volume VII: Beyond Claymath, Beyond Navier-Stokes Equations, and Beyond Classical Calculus of Newton.** Transcends classical mathematical limitations through the Marvinian Restoration. It resolves the "Impossible Equality" by introducing a complex topological regulator (\nu_{\mathbb{C}} = \nu + i\eta), where the imaginary component \eta houses the Rest Energy, mathematically neutralizing the vortex stretching term and preserving the continuum.
+ * **Volume VIII: Frequently Asked Questions: The Explicit Refutation and Resolution of Classical Mathematics Contradictions via Marvinian Mechanics.** Delivers a resolute, iron-clad defense of the entire architecture against pure mathematical contradictions. It formally resolves the "Grönwall gap," clarifies the precise physics of the Vacuum Fallacy, and honors the Millennium Prize rules to definitively prove that a finite-time singularity is an impossible mathematical illusion.
+ * **Volume IX: The Truth Behind the Embedded Viscous Rest State: Bridging Fluid Continuum Mechanics to Universal Gravitation.** Exposes Atmospheric Pressure, generated by planetary gravity, as the macroscopic physical container that originates the fluid's Embedded Viscous Rest State. It proves that removing this gravitational boundary wall without removing internal kinetic energy results in a thermodynamic phase transition (boiling or freezing), definitively eradicating the mathematical illusion of a kinematic blow-up.
+ * **Volume X: From Marvinian Equality To PDE: The Critical Interaction Radius as a Scale-Dependent Regularity Criterion for the 3D Navier-Stokes Equations.** Formulates the Critical Interaction Radius (R_T) as a rigorous scale-dependent regularity criterion. It proves that finite-time blow-up is impossible under ordinary turbulence; singularity formation strictly requires nonlinear energy production to outpace environmental dissipation, demanding physically unachievable, bomb-level energy concentrations (e.g., 10^7 Joules in a 1\text{ m}^3 sphere).
+ * **Volume XI: The Critical Thermal Radius: A Scale-Dependent Regularity Criterion for Heat and Fluid Coupling.** Extends the Critical Interaction Radius to thermodynamic heat coupling. It establishes the Critical Thermal Radius (R_{T,crit}), proving that if viscous heating threatens to outpace the dissipation of the surrounding Thermal Rest State, the fluid mathematically and physically mandates a phase change (Plan C) long before an infinite temperature singularity can manifest.
+ * **Volume XII: The Magsanop Switch Equation: A Geometric-Thermodynamic Theory of Thermal Regulation.** Introduces the Magsanop Temperature Equation, elegantly encoding the three-stage hierarchy of thermal regulation (conduction, convection, phase change) directly into the coupled Navier-Stokes and Heat PDEs. The dimensionless Magsanop Switch \mathcal{S}(t) acts as an unbreakable mathematical feedback control that explicitly suppresses theoretical thermal runaway.
+ * **Volume XIII: The Dimensional Form of \kappa_M: From Dimensionless Ratio to Critical Thermal Radius R_{T,crit} and Its Meeting with Rayleigh Number.** Bridges the dimensionless stability ratio \kappa_M to its explicit dimensional realization, the Marvinian Rayleigh Number Ra_{Marvin}. It demonstrates that while the classical Rayleigh number dictates the onset of convection (Plan B), the Marvinian threshold strictly governs the onset of phase change (Plan C) driven by internal viscous heating, unconditionally retaining 82.6% of kinetic dissipation.
+ * **Volume XIV: Method A (MA) and the Embedded Viscous Rest State (R_0 or R): Resolving the 3D Navier-Stokes Millennium Problem via the Complex Viscosity Regulator (\nu+iN).** Resolves the Millennium Problem's kinematic parameters by introducing the Complex Viscosity Regulator (\nu_{\mathbb{C}} = \nu + iN). It proves that imaginary components are physical necessities representing the Law of Absolute Equilibrium, anchored by a Harmonic Baseline (\mathcal{H} = 1/2) that orthogonalizes dangerous convective energy peaks away from the gradient growth axis.
+ * **Volume XV: The Perpetual Spectral Closure and the Universal Rest Equilibrium: Final Sealing of Global Regularity via the Magsanop Constant (C_M).** Delivers the perpetual spectral closure of the framework via the Magsanop Constant (C_M = \frac{3}{4}\nu). This universal closure coefficient quantifies the exact active remainder dissipation after harmonic phase redistribution, permanently sealing the enstrophy balance inequality and guaranteeing global regularity for all time without violating energy conservation.
+ * **Volume XVI: On the Physical Inadmissibility of Forced Finite-Time Singularities: A Marvinian Refutation of the September 2026 Artificial Intelligence Blow-Up Construction.** Provides a resolute referee report refuting the September 2026 AI-generated forced finite-time singularity. It exposes the double hidden force fitting of the Lean 4 formalization, proving that the artificial singularity is a phantom artifact that fatally violates continuum mechanics (Mach and Knudsen limits) and thermodynamic censorship.
 ### 🎵 Creative & Supplementary Works
-* **"The Lame Man Sprint" (Upcoming):** English song lyrics derived from the theoretical physics concepts of Marvinian Mechanics (specifically the Lame Man Metaphor), translated into music to disseminate the framework's message to a wider global audience.
-
----
-*📝 **Note on Future Volumes:** The extensive remaining volumes of the 77-volume series will be progressively uploaded in the future following careful document review, formatting, and typographical corrections.*
-
+ * **"The Lame Man Sprint: Exposing the Calculus Jump in the AI Navier-Stokes Proof":** English song lyrics derived from the theoretical physics concepts of Marvinian Mechanics (specifically the Lame Man Metaphor), translated into music to disseminate the framework's message to a wider global audience. Watch on YouTube.
+*📝 **Note on Future Volumes:** The extensive remaining volumes of the 137 volume series will be progressively uploaded in the future following careful document review, formatting, and typographical corrections.*
